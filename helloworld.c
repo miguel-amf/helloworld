@@ -6,7 +6,7 @@ int main () {
     int zueira = COMECO;
     printf("Hello World!\n");
     while(zueira != END) {
-        printf("HUE\n");
+        printf("HUE HUE HUE HUE HUE\n");
     }
     return 0;
 }
